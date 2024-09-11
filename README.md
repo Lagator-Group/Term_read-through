@@ -1,5 +1,5 @@
 # Term_read-through
- Promoter Strength Affects Intrinsic Terminator read-through rate
+ Promoter Strength Affects Intrinsic Terminator Read-through Rate
 
 ## Data files
 * Terminator location and properties from Ju et al. "Full-length RNA profiling reveals pervasive bidirectional transcription terminators in bacteria" Nat Microbiol 2019.
